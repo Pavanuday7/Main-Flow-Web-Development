@@ -1,0 +1,30 @@
+
+
+  body{
+    background-color:  rgb(243, 248, 107) ;
+  }
+  h1
+  {
+    color:  blue;
+
+  }
+  h3{
+      color: #66BFBF;
+  }
+  hr
+  {
+
+     border-color:grey;
+      border-width: 5px;
+     border-style: none ;
+      border-top-style: dotted;
+     width: 10%;
+  }
+
+img{
+background-color:green;
+}
+
+ #heading{
+   color: green;
+ }
